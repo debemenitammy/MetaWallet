@@ -2,7 +2,7 @@
 
 <img src="view-app.png"/>
 
-MetaWallet is an application that connects to your metamask wallet and prints out a user's wallet details. 
+MetaWallet is an application that connects to a user's metamask wallet and prints out the user's wallet details. 
 The project was built with React and TailwindCSS.
 
 ## Getting Started
