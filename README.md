@@ -5,6 +5,8 @@
 MetaWallet is an application that connects to a user's metamask wallet and prints out the user's wallet details. 
 The project was built with React and TailwindCSS.
 
+*Here's a [link](https://eth-meta-wallet.netlify.app/) to the hosted application*.
+
 ## Getting Started
 
 After cloning the project, you can run the following command to start the application:
