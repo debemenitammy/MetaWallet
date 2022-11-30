@@ -1,14 +1,19 @@
-# Getting Started with Create React App
+# MetaWallet App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="view-app.png"/>
 
-## Available Scripts
+MetaWallet is an application that connects to your metamask wallet and prints out a user's wallet details. 
+The project was built with React and TailwindCSS.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+After cloning the project, you can run the following command to start the application:
 
-Runs the app in the development mode.\
+```
+npm start
+```
+## Running the Application
+To runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
